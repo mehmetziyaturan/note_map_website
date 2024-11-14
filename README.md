@@ -1,5 +1,5 @@
 # Note Map Website
-This website is a notemap project with crud feature. There are additions, subtractions and updates. 
+This website is a notemap project with crud feature. There are additions, subtractions and updates. Leaflet map library used
 * Select the area you want on the map, the jersey area will open.
 * You can give any title, date and status information, 
 * Add icon on the map
